@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.587f4008.css",
+    "main.js": "/static/js/main.ef12edc7.js",
+    "static/media/gif.gif": "/static/media/gif.66512bffbb5442ff8068.gif",
+    "static/media/hero-img.png": "/static/media/hero-img.00b4b8b166549f3a23cb.png",
+    "static/media/f1.png": "/static/media/f1.f49dfd5facbffe978099.png",
+    "static/media/skills.png": "/static/media/skills.2623e2a8eab74e43679f.png",
+    "static/media/ourvision.jpg": "/static/media/ourvision.22225ae425989a06d100.jpg",
+    "static/media/who1.png": "/static/media/who1.96e5f20f4cda174324b4.png",
+    "static/media/feat.jpeg": "/static/media/feat.b162e40739435cb80a99.jpeg",
+    "static/media/transaction.png": "/static/media/transaction.d4759cbb28796676ee3a.png",
+    "static/media/newsletter.jpg": "/static/media/newsletter.797e3ddc4ac4a0c4af37.jpg",
+    "static/media/chart3.png": "/static/media/chart3.960b8e97fe4e6099ddba.png",
+    "static/media/reason2.jpg": "/static/media/reason2.b0bec1af5baecbc2b15b.jpg",
+    "static/media/reason3.jpg": "/static/media/reason3.1685c399b19b62344039.jpg",
+    "static/media/chart5.png": "/static/media/chart5.98c378495023fc06066b.png",
+    "static/media/reason1.jpg": "/static/media/reason1.6788dbeabdc238b140ed.jpg",
+    "static/media/chart6.png": "/static/media/chart6.7c79335de3980e3c4797.png",
+    "static/media/chart7.png": "/static/media/chart7.39405932b331d7738747.png",
+    "static/media/chart.png": "/static/media/chart.01e2c15668fa6ce21ff5.png",
+    "static/media/chart9.png": "/static/media/chart9.68647589c145d56fee38.png",
+    "static/media/card.png": "/static/media/card.5e41b781c876ab6085be.png",
+    "static/media/chart8.png": "/static/media/chart8.9a2f81d96b49f2b1e54a.png",
+    "static/media/chart4.png": "/static/media/chart4.c21b39fe25e16a0c28c1.png",
+    "static/media/chart2.png": "/static/media/chart2.3346f37cb3fe1c372dc5.png",
+    "static/media/cryptex.png": "/static/media/cryptex.f6df96bb641aebb62c67.png",
+    "static/media/chart1.png": "/static/media/chart1.85fba69a058e72bd0b05.png",
+    "static/media/chart10.png": "/static/media/chart10.890361906ab488141f46.png",
+    "static/media/card2.png": "/static/media/card2.145656756da0b7599913.png",
+    "index.html": "/index.html",
+    "static/media/circle2.svg": "/static/media/circle2.6d7d48ebfec66568202ceffa069d1499.svg",
+    "main.587f4008.css.map": "/static/css/main.587f4008.css.map",
+    "main.ef12edc7.js.map": "/static/js/main.ef12edc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.587f4008.css",
+    "static/js/main.ef12edc7.js"
+  ]
+}
