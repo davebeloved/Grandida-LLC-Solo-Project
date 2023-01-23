@@ -1,6 +1,7 @@
 {
   "name": "cryptocurrency-website",
   "version": "0.1.0",
+  "homepage": "https://cryptex-site.cyclic.app/react-app",
   "private": true,
   "dependencies": {
     "@giphy/js-fetch-api": "^4.7.1",
