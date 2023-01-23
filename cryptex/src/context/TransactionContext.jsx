@@ -107,9 +107,6 @@ export const TransactionProvider = ({children}) => {
             if (!ethereum) return alert('please install MetaMask');
             const accounts = await ethereum.request({method: 'eth_requestAccounts'});
             setCurrentAccount(accounts[0]);
-            
-    
-
             window.location.reload();
         } catch (error) {
             window.location.reload();
@@ -163,8 +160,10 @@ export const TransactionProvider = ({children}) => {
         window.location.reload();
     }
 
-    window.ethereum.on('accountsChanged', connectWallet);
-    window.ethereum.on('chainChanged', chainChangedHandler);
+ 
+
+    //  window.ethereum.on('accountsChanged', connectWallet);/
+    // ethereum.on('chainChanged', chainChangedHandler);
     
     
     useEffect( () => {
