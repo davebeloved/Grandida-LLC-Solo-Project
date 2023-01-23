@@ -6,8 +6,8 @@ const ConnectWithUs = () => {
   return (
     <div className='lg:px-20 py-10 mt-20'>
       <div className='w-full bg-gradient-to-r from-[#551A8B] to-blue-500 flex flex-col items-center py-8 px-6 rounded-lg space-y-6 text-center'
-      //  data-aos='fade-down'
-      //  data-aos-offset='400'
+       data-aos='fade-down'
+       data-aos-offset='400'
       >
         <h2 className='font-bold font-newFont text-2xl'>Connect With Us</h2>
         <p>You can reach out to us on social media by clicking any of the following links below</p>

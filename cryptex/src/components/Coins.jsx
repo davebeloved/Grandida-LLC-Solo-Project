@@ -36,7 +36,7 @@ const Coins = () => {
 
   return (
     <div
-      className='w-[90%] lg:w-full bg-darkblue max-w-[942px] shadow-gray-700 mx-auto mb-32 rounded-2xl text-white p-12 shadow-primary'
+      className='w-full bg-darkblue max-w-[942px] shadow-gray-700 lg:mx-auto mb-32 rounded-2xl text-white p-12 shadow-primary'
       // data-aos='fade-up'
       // data-aos-delay='400'
     >

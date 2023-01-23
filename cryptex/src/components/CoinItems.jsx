@@ -34,7 +34,7 @@ const CoinItems = ({rank, image, name, symbol, price, priceChange, volume, marke
               </div>
    ) : 
     <div className='text-green-600'>
-      <p>{priceChange.toFixed(1)}%</p>
+      <p>+{priceChange.toFixed(1)}%</p>
     </div>
    }
         <div className=' lg:-ml-8 hidden lg:block'>

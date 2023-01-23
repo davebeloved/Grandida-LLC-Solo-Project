@@ -11,7 +11,7 @@ const NavMobile = ({ setNavMobile }) => {
   const {connectWallet, currentAccount} = useContext(TransactionContext);
 
   return (
-    <nav className='lg:hidden bg-[#CBC3E3] h-full top-0 bottom-0 w-80 flex flex-col justify-between pb-6 px-3'>
+    <nav className='lg:hidden bg-white h-full top-0 bottom-0 w-[250px] flex flex-col justify-between pb-6 px-3'>
       {/* close btn */}
       <div
         onClick={() => setNavMobile(false)}
@@ -24,7 +24,7 @@ const NavMobile = ({ setNavMobile }) => {
         {navData.map((item, index) => {
           return (
             <li key={index} className=' w-full  h-16 '>
-              <Link to={item.to} className='w-full text-darkblue h-full font-bold  grid place-items-center hover:bg-darkblue hover:text-white '>{item.name}</Link>
+              <Link to={item.to} className='w-full text-darkblue h-full   grid place-items-center hover:bg-darkblue hover:text-white '>{item.name}</Link>
             </li>
           );
         })}
