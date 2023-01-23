@@ -4,7 +4,7 @@ import { AiFillYoutube, AiOutlineInstagram } from 'react-icons/ai'
 
 const ConnectWithUs = () => {
   return (
-    <div className='px-20 py-10 mt-20'>
+    <div className='lg:px-20 py-10 mt-20'>
       <div className='w-full bg-gradient-to-r from-[#551A8B] to-blue-500 flex flex-col items-center py-8 px-6 rounded-lg space-y-6 text-center'
       //  data-aos='fade-down'
       //  data-aos-offset='400'
