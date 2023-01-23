@@ -11,7 +11,7 @@ const NavMobile = ({ setNavMobile }) => {
   const {connectWallet, currentAccount} = useContext(TransactionContext);
 
   return (
-    <nav className='lg:hidden bg-[#CBC3E3] h-full top-0 bottom-0 w-80 flex flex-col justify-between pb-6 px-3'>/
+    <nav className='lg:hidden bg-[#CBC3E3] h-full top-0 bottom-0 w-80 flex flex-col justify-between pb-6 px-3'>
       {/* close btn */}
       <div
         onClick={() => setNavMobile(false)}
