@@ -1,5 +1,6 @@
 # Grandida-LLC-Solo-Project
-
+# Description 
+This appliction is a decentralized applcation which allows users to interact with the smartcontract(backend) with their MetaMask connected and enable them to transfer tokens(ether) from one address to another with ultimate speed and ease. View this applcation live at https://grandida-llc-solo-project.vercel.app/
 
 
 How to Run Locally
