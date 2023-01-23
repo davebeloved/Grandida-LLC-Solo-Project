@@ -9,4 +9,5 @@ How to Run Locally
 6. After installing all dependencies, Launch the app with this command:
 7. npm run start
 8. The application will be opened in http://localhost:3000/
+NOTE: Ensure you are Connected to the Internet before starting the app so that you can interact with other features.
      
