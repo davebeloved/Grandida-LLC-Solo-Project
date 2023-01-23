@@ -1,8 +1,6 @@
 # Grandida-LLC-Solo-Project
 
-Description
-This web application is a decentralized application where any user be able to sign-in with their MetaMask Wallet, which made them eligible to transfer tokens(ether) from one address to another and it is recorded on the blockchain..
-You can preview live at https://grandida-llc-solo-project.vercel.app/
+
 
 How to Run Locally
 1. clone the repo with git clone https://github.com/davebeloved/Grandida-LLC-Solo-Project.git
