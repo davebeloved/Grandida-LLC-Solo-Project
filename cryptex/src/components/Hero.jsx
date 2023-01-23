@@ -60,9 +60,12 @@ const Hero = () => {
             </button>)}
           </div>
           {/* hero image */}
-          <div className='flex-1 relative pt-14  lg:pt-0'>
-            <img src={Image} alt='' data-aos='fade-up' data-aos-delay='600' />
-            <div className='bg-darkblue h-10 w-40 absolute right-6 bottom-3 md:bottom-5 md:right-9 md:w-48 lg:right-6'>
+          <div className='flex-1 relative pt-14  lg:pt-0'
+           data-aos='fade-down'
+           data-aos-delay='500'
+          >
+            <img src={Image} alt=''  className='w-[550px]'/>
+            <div className='bg-darkblue h-10 w-40 absolute right-5 bottom-3 md:bottom-5  md:w-48 lg:right-6'>
               <img src={circle} alt="" />
             </div>
           </div>
