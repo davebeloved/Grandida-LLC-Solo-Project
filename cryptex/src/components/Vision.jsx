@@ -5,7 +5,7 @@ import Skills from './Skills'
 
 const Vision = () => {
   return (
-    <div className='px-20 py-10'>
+    <div className='px-10 lg:px-20 py-10'>
       <div className='grid grid-cols-1  md:grid-cols-2 gap-x-6 gap-y-24'>
         <div className='space-y-6'
          data-aos='fade-right'

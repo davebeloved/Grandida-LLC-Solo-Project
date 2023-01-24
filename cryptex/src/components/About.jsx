@@ -3,7 +3,7 @@ import Image from '../assets/img/who1.png'
 
 const About = () => {
   return (
-    <div className='px-20 py-10 mt-10 bg-[#551A8B]'>
+    <div className='px-10 lg:px-20 py-10 mt-10 bg-[#551A8B]'>
       <h2 className='text-center uppercase text-3xl font-bold font-newFont'>About</h2>
       <div className='grid grid-cols-1 gap-y-10 md:grid-cols-2 gap-x-6 mt-48'>
         <div 

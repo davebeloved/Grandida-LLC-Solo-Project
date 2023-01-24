@@ -6,7 +6,7 @@ import { BiMessageAltEdit } from 'react-icons/bi'
 
 const ContactForm = () => {
   return (
-    <div className='px-20 py-10 mt-10'>
+    <div className='px-10 lg:px-20 py-10 mt-10'>
       <div className='grid grid-cols-1 gap-y-20 md:grid-cols-2 gap-x-4'>
         <div className='space-y-5'
          data-aos='fade-right'

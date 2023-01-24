@@ -7,7 +7,7 @@ import { GiSpeedBoat, GiDiceTarget } from 'react-icons/gi'
 
 const AboutFeature = () => {
   return (
-    <div className='py-32  px-20'>
+    <div className='py-32 px-10 lg:px-20'>
       <div className='text-center lg:w-[850px] mx-auto'
        data-aos='fade-down'
        data-aos-offset='400'

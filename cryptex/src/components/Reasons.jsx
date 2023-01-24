@@ -5,7 +5,7 @@ import Image3 from '../assets/img/reason3.jpg'
 
 const Reasons = () => {
   return (
-    <div className='px-20 py-20'>
+    <div className='px-10 lg:px-20 py-20'>
       <div className='text-center space-y-2'
        data-aos='fade-down'
        data-aos-offset='400'
