@@ -35,7 +35,7 @@ const Card = () => {
             <h4 className='flex justify-between items-center '><span className='text-gray-500'>Adress: </span><span className='text-white'>{shortenAddress(currentAccount)}</span> </h4>
             <h4 className='flex justify-between items-center '><span className='text-gray-500'>Token: </span><span className='text-white'>ETH</span> </h4>
             <h4 className='flex justify-between items-center '><span className='text-gray-500'>Status: </span><span className='text-green-500'>Active</span> </h4>
-            <h4 className='flex justify-between items-center '><span className='text-gray-500'>Balance: </span><span className='text-white'>0.001</span> </h4>
+            <h4 className='flex justify-between items-center '><span className='text-gray-500'>Balance: </span><span className='text-white mt-2'>********</span> </h4>
         </div>
       </div>
        

@@ -36,8 +36,8 @@ const TransactionForm = () => {
           <div className="p-5  w-full flex flex-col justify-start items-center">
             <Input placeholder="Address To" name="addressTo" type="text" handleChange={handleChange}  className='w-full'/>
             <Input placeholder="Amount (ETH)" name="amount" type="number" handleChange={handleChange}  className='w-full'/>
-            <Input placeholder="Keyword (Gif)" name="keyword" type="text" handleChange={handleChange}  className='w-full'/>
-            <Input placeholder="Enter Message" name="message" type="text" handleChange={handleChange}  className='w-full'/>
+            <Input placeholder="Keyword" name="keyword" type="text" handleChange={handleChange}  className='w-full'/>
+            <Input placeholder="Trnsaction description" name="message" type="text" handleChange={handleChange}  className='w-full'/>
 
             <div className="h-[1px] w-full bg-darkblue my-2" />
 

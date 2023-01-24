@@ -38,8 +38,8 @@ import LatestNews from './LatestNews';
               
                 <h4 className='flex justify-between items-center '><span className='text-gray-500'>Amount: </span><span className=' text-white'>{amount} ETH</span> </h4>
                 
-                <h4 className='flex justify-between items-center '><span className='text-gray-500'>Message: </span><span className=' text-white'>{message}</span> </h4>
                 <h4 className='flex justify-between items-center '><span className='text-gray-500'>Keyword: </span><span className=' text-white'>{keyword}</span> </h4>
+                <h4 className='flex justify-between items-center '><span className='text-gray-500'>Description: </span><span className=' text-white'>{message}</span> </h4>
                 <div className='bg-black rounded-3xl w-max -mt-5 p-3 px-4 shadow-2xl'>
                      <p className='text-[#37c7da] font-bold'>{timestamp}</p>
                 </div>

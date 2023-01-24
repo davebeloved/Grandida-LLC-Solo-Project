@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom';
 
 // import images
 import Logo from '../assets/img/cryptex.png';
-import VisaImg from '../assets/img/visa.png';
-import MastercardImg from '../assets/img/mastercard.png';
 import BitcoinImg from '../assets/img/bitcoin.png';
 import { motion } from 'framer-motion';
 import { BsFillTelephoneFill } from 'react-icons/bs'
