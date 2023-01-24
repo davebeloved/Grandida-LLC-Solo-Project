@@ -51,7 +51,7 @@ const ContactForm = () => {
                     <BiMessageAltEdit className='mt-1'/>
                     <textarea name="" id="" cols="30" rows="6" placeholder='Enter your message' className=' outline-none bg-transparent border-none w-full'></textarea>
                 </div>
-                <button type='submit' className='bg-[#551A8B] py-4 px-32 hover:bg-blue-hover'>Submit</button>
+                <button type='submit' className='bg-[#551A8B] py-4 px-20 lg:px-32 hover:bg-blue-hover'>Submit</button>
             </form>
         </div>
       </div>
